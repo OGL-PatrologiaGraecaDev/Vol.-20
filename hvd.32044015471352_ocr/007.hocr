@@ -1,0 +1,22 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/20/hvd.32044015471352/007.png"; bbox 0 0 4106 6344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2059 1591 2660 1861">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2059 1591 2660 1861">
+     <span class='ocr_line' id='line_1_1' title="bbox 2059 1591 2646 1669; baseline -0.003 -26"><span class='ocrx_word' id='word_1_1' title='bbox 2059 1591 2109 1669; x_wconf 55' lang='lat' dir='ltr'><em>y,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2178 1591 2646 1658; x_wconf 63' lang='grc' dir='ltr'><em>αιοαχωρτκ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2059 1688 2660 1861; baseline -0.007 -64"><span class='ocrx_word' id='word_1_3' title='bbox 2059 1688 2660 1861; x_wconf 50' lang='grc' dir='ltr'><em>Ῠὸθῇοαλίιῧέ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2206 2026 2809 2147">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2206 2026 2809 2147">
+     <span class='ocr_line' id='line_1_3' title="bbox 2206 2026 2809 2147; baseline -0.003 -27"><span class='ocrx_word' id='word_1_4' title='bbox 2206 2026 2369 2147; x_wconf 71' lang='lat' dir='ltr'><em>(H.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2391 2058 2506 2133; x_wconf 64' lang='grc' dir='ltr'><em>α,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2544 2049 2809 2142; x_wconf 50' lang='grc' dir='ltr'><em>λέγω.)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1786 2180 3293 2349">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1786 2180 3293 2349">
+     <span class='ocr_line' id='line_1_4' title="bbox 1786 2180 3293 2349; baseline -0.002 -56"><span class='ocrx_word' id='word_1_7' title='bbox 1786 2180 2322 2300; x_wconf 53' lang='grc' dir='ltr'><em>Ψωιὶίωιέ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2341 2202 2459 2349; x_wconf 55' lang='lat'><em>4/</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2490 2200 2843 2293; x_wconf 42' lang='grc' dir='ltr'><em>ἔξωρα</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2900 2196 3293 2300; x_wconf 57' lang='lat' dir='ltr'><em>W27</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
